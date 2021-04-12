@@ -3,17 +3,17 @@ import React, { useState } from 'react';
 import * as Styled from './styles';
 
 const mainNavItems = [
+  // {
+  //   title: 'About Me',
+  //   slug: '/'
+  // },
   {
-    title: 'About Me',
+    title: 'Blog',
     slug: '/'
   },
   {
     title: 'Resume',
     slug: '/resume/'
-  },
-  {
-    title: 'Blog',
-    slug: '/blog/'
   },
   {
     title: 'Contact Me',

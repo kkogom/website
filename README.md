@@ -1,8 +1,8 @@
 # Hello! my name is Eun Ji!
 
-visit my website - [kkogom](https://hardcore-snyder-6f1316.netlify.app/)
+visit my website - [kkogom](https://kkogom.netlify.app/)
 
-# Gatsby Markdown Personal Website
+<!-- # Gatsby Markdown Personal Website
 
 This is a personal website / blog using [Gatsby](https://www.gatsbyjs.org/), [Markdown](https://www.markdownguide.org/), [Styled Components](https://styled-components.com/), [Talwind CSS](https://tailwindcss.com/), [Framer Motion](https://www.framer.com/motion/) & [React Font Awesome](https://github.com/FortAwesome/react-fontawesome).
 
@@ -52,4 +52,4 @@ This is a personal website / blog using [Gatsby](https://www.gatsbyjs.org/), [Ma
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/SaimirKapaj/gatsby-markdown-personal-website)
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/SaimirKapaj/gatsby-markdown-personal-website)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/SaimirKapaj/gatsby-markdown-personal-website) -->
