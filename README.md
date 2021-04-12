@@ -1,3 +1,5 @@
+# Hello! my name is Eun Ji!
+
 visit my website - [kkogom](https://hardcore-snyder-6f1316.netlify.app/)
 
 # Gatsby Markdown Personal Website
